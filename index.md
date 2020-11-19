@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Rituparna Sarkar
 
 You can use the [editor on GitHub](https://github.com/rituparnaS/rituparnaS.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
